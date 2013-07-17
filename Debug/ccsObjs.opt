@@ -1,0 +1,1 @@
+"./pff.obj" "./mmcbb.obj" "./main.obj" "./delay.obj" "./USCI.obj" "./TimerA.obj" "./CircularBuffer.obj" "./CHandler.obj" -l"libc.a" "../lnk_msp430g2553.cmd" 
